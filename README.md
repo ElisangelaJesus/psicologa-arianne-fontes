@@ -27,9 +27,9 @@ Funcionalidades Principais:
 •	Componentes Interativos: FAQ no estilo acordeão, botões de Call-to-Action (CTA) estratégicos e botão flutuante do WhatsApp.
 •	Estilização Personalizada: Uso de variáveis CSS para paleta de cores (Verde Petróleo/Dourado) e tipografia elegante (Playfair Display e Lato).
 
-
 Tecnologias Utilizadas:
 •	HTML5 Semântico
 •	CSS3 (Customizado + Animações Keyframes)
 •	Framework Bootstrap 5.3
 •	JavaScript (Vanilla/ES6) para manipulação do DOM e eventos.
+
